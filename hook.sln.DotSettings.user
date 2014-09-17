@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	
+	
+	<s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/Abbreviations/=FILE/@EntryIndexedValue">FILE</s:String>
+	<s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/Abbreviations/=HOOK/@EntryIndexedValue">HOOK</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C454F21FC5414741A7F100E8232CBDE3/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C454F21FC5414741A7F100E8232CBDE3/Name/@EntryValue">exportTest</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=C454F21FC5414741A7F100E8232CBDE3/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;Elements&gt;&lt;UnitTestElement Provider="nUnit" Id="test.TestCore" type="NUnitTestFixtureElement" Project="E2F82371-CDC4-4B83-8735-0797243A0810" /&gt;&lt;UnitTestElement Provider="nUnit" Id="test.TestCore.exportTest" ParentId="test.TestCore" type="NUnitTestElement" TypeName="test.TestCore" MethodName="exportTest" Project="E2F82371-CDC4-4B83-8735-0797243A0810" /&gt;&lt;/Elements&gt;&lt;/Session&gt;</s:String></wpf:ResourceDictionary>
